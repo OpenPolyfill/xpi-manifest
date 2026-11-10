@@ -1,0 +1,8 @@
+# Copy this to manifests/{name}.yml and register the same key in repositories.yml.
+description: Description of the add-on
+repo-prefix: example
+active: true
+addon-id: your-addon@example.org
+ca-certificate: certificates/openpolyfill-ca.pem
+signing: source-repository
+distribution: github-release

@@ -1,0 +1,11 @@
+repositories:
+  webhid:
+    name: WebHID
+    default-repository: https://github.com/OpenPolyfill/WebHID
+    default-ref: main
+    type: git
+  webkeyboard:
+    name: WebKeyboard
+    default-repository: https://github.com/OpenPolyfill/WebKeyboard
+    default-ref: main
+    type: git
