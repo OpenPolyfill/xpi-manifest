@@ -1,0 +1,7 @@
+description: WebKeyboard compatibility layer for Firefox
+repo-prefix: webkeyboard
+active: true
+addon-id: '@webkeyboard.openpolyfill'
+ca-certificate: certificates/openpolyfill-ca.pem
+signing: source-repository
+distribution: github-release

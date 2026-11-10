@@ -1,0 +1,7 @@
+description: WebHID compatibility layer for Firefox
+repo-prefix: webhid
+active: true
+addon-id: webhid@k4zoku.dev
+ca-certificate: certificates/openpolyfill-ca.pem
+signing: source-repository
+distribution: github-release
